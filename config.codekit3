@@ -493,6 +493,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/img/cody-wolfe.jpg": {
+		"ft": 16384,
+		"iS": 6227,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/cody-wolfe.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/img/creative-1.jpg": {
 		"ft": 16384,
 		"iS": 57279,
@@ -1318,12 +1329,45 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/img/gavin-fleeing-video-play.png": {
+		"ft": 32768,
+		"iS": 746820,
+		"oA": 0,
+		"oAP": "/assets/img/gavin-fleeing-video-play.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/gavin-getting-arrested-at-court.jpeg": {
+		"ft": 16384,
+		"iS": 292221,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/gavin-getting-arrested-at-court.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/img/gavin-gun-nut.jpeg": {
 		"ft": 16384,
 		"iS": 397101,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/gavin-gun-nut.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/headers/13198644_10153741169188843_4988539503901043529_o.jpg": {
+		"ft": 16384,
+		"iS": 271380,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/headers/13198644_10153741169188843_4988539503901043529_o.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1566,6 +1610,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/img/headers/header.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/img/headers/IMG_1302.JPG": {
+		"ft": 16384,
+		"iS": 326251,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/img/headers/IMG_1302.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
