@@ -53,6 +53,70 @@
 		"oAP": "/assets/css/theme.css.map",
 		"oF": 0
 		},
+	"/assets/files/20171025-motion.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/files/20171025-motion.pdf",
+		"oF": 0
+		},
+	"/assets/files/20171109-motion.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/files/20171109-motion.pdf",
+		"oF": 0
+		},
+	"/assets/files/20171116-motion.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/files/20171116-motion.pdf",
+		"oF": 0
+		},
+	"/assets/files/20171116-objection-evidence.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/files/20171116-objection-evidence.pdf",
+		"oF": 0
+		},
+	"/assets/files/20171207-filming.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/files/20171207-filming.pdf",
+		"oF": 0
+		},
+	"/assets/files/20171207-motion.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/files/20171207-motion.pdf",
+		"oF": 0
+		},
+	"/assets/files/court.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/files/court.mp3",
+		"oF": 0
+		},
+	"/assets/files/gavin-seim-arrest.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/files/gavin-seim-arrest.pdf",
+		"oF": 0
+		},
 	"/assets/img/404.jpg": {
 		"ft": 16384,
 		"iS": 120775,
@@ -4270,6 +4334,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/assets/video/shoes.mp4",
+		"oF": 0
+		},
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/CNAME",
 		"oF": 0
 		},
 	"/gavin-seim/index.html": {
