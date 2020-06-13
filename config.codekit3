@@ -4981,6 +4981,14 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"/ndp.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/ndp.html",
+		"oF": 0
+		},
 	"/process/basis-of-claim.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -5029,6 +5037,14 @@
 		"oAP": "/process/index.html",
 		"oF": 0
 		},
+	"/process/preparing.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/process/preparing.html",
+		"oF": 0
+		},
 	"/process/rad-appeal.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -5043,6 +5059,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/process/work-study-permit.html",
+		"oF": 0
+		},
+	"/prra.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/prra.html",
+		"oF": 0
+		},
+	"/safe-third-country.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/safe-third-country.html",
 		"oF": 0
 		},
 	"/support.html": {
