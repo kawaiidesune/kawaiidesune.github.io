@@ -4336,12 +4336,84 @@
 		"oAP": "/assets/video/shoes.mp4",
 		"oF": 0
 		},
+	"/changelog.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/changelog.html",
+		"oF": 0
+		},
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/CNAME",
+		"oF": 0
+		},
+	"/elements/credibility.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/elements/credibility.html",
+		"oF": 0
+		},
+	"/elements/generalized-risk.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/elements/generalized-risk.html",
+		"oF": 0
+		},
+	"/elements/identity.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/elements/identity.html",
+		"oF": 0
+		},
+	"/elements/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/elements/index.html",
+		"oF": 0
+		},
+	"/elements/internal-flight-alternative.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/elements/internal-flight-alternative.html",
+		"oF": 0
+		},
+	"/elements/legal-residence-elsewhere.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/elements/legal-residence-elsewhere.html",
+		"oF": 0
+		},
+	"/elements/state-protection.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/elements/state-protection.html",
+		"oF": 0
+		},
+	"/elements/subjective-fear.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/elements/subjective-fear.html",
 		"oF": 0
 		},
 	"/gavin-seim/index.html": {
