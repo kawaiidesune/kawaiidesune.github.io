@@ -17,6 +17,14 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/about.html",
+		"oF": 0
+		},
 	"/assets/css/theme-rtl.css": {
 		"aP": 1,
 		"bl": 0,
@@ -4352,6 +4360,30 @@
 		"oAP": "/CNAME",
 		"oF": 0
 		},
+	"/contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/contact.html",
+		"oF": 0
+		},
+	"/contributing.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/contributing.html",
+		"oF": 0
+		},
+	"/copyleft.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/copyleft.html",
+		"oF": 0
+		},
 	"/elements/credibility.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -4948,6 +4980,86 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"/process/basis-of-claim.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/process/basis-of-claim.html",
+		"oF": 0
+		},
+	"/process/claim-airport.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/process/claim-airport.html",
+		"oF": 0
+		},
+	"/process/claim-office.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/process/claim-office.html",
+		"oF": 0
+		},
+	"/process/federal-court.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/process/federal-court.html",
+		"oF": 0
+		},
+	"/process/hearing-day.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/process/hearing-day.html",
+		"oF": 0
+		},
+	"/process/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/process/index.html",
+		"oF": 0
+		},
+	"/process/rad-appeal.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/process/rad-appeal.html",
+		"oF": 0
+		},
+	"/process/work-study-permit.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/process/work-study-permit.html",
+		"oF": 0
+		},
+	"/support.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/support.html",
+		"oF": 0
+		},
+	"/template.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/template.html",
+		"oF": 0
 		}
 	},
 "hooks": [
