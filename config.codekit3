@@ -24,6 +24,426 @@
 		"oA": 0,
 		"oAP": "/CNAME",
 		"oF": 0
+		},
+	"/css/bootstrap-grid.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-grid-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap-grid.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-grid.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap-grid.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-grid.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap-grid.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-grid.min.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap-grid.rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-grid.rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap-grid.rtl.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-grid.rtl.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap-grid.rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-grid.rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap-grid.rtl.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-grid.rtl.min.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap-reboot.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-reboot-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap-reboot.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-reboot.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap-reboot.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-reboot.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap-reboot.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-reboot.min.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap-reboot.rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-reboot.rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap-reboot.rtl.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-reboot.rtl.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap-reboot.rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-reboot.rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap-reboot.rtl.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-reboot.rtl.min.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap-utilities.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-utilities-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap-utilities.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-utilities.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap-utilities.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-utilities.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap-utilities.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-utilities.min.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap-utilities.rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-utilities.rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap-utilities.rtl.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-utilities.rtl.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap-utilities.rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-utilities.rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap-utilities.rtl.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-utilities.rtl.min.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap.min.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap.rtl.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap.rtl-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap.rtl.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap.rtl.css.map",
+		"oF": 0
+		},
+	"/css/bootstrap.rtl.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap.rtl.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/bootstrap.rtl.min.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/bootstrap.rtl.min.css.map",
+		"oF": 0
+		},
+	"/css/starter-template.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/starter-template-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/index.html",
+		"oF": 0
+		},
+	"/js/bootstrap.bundle.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/bootstrap.bundle-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/js/bootstrap.bundle.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/js/bootstrap.bundle.js.map",
+		"oF": 0
+		},
+	"/js/bootstrap.bundle.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/bootstrap.bundle.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/js/bootstrap.bundle.min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/js/bootstrap.bundle.min.js.map",
+		"oF": 0
+		},
+	"/js/bootstrap.esm.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/bootstrap.esm-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/js/bootstrap.esm.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/js/bootstrap.esm.js.map",
+		"oF": 0
+		},
+	"/js/bootstrap.esm.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/bootstrap.esm.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/js/bootstrap.esm.min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/js/bootstrap.esm.min.js.map",
+		"oF": 0
+		},
+	"/js/bootstrap.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/bootstrap-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/js/bootstrap.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/js/bootstrap.js.map",
+		"oF": 0
+		},
+	"/js/bootstrap.min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/js/bootstrap.min.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/js/bootstrap.min.js.map",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -34,7 +454,7 @@
 	"creationDate": 613636186.27033901,
 	"displayValue": "kawaiidesune.github.io",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "/assets/img/favicons/apple-touch-icon.png",
+	"iconImageName": "meme-chloe",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
